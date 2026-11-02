@@ -1,0 +1,26 @@
+# ==========================================
+# .NET / C# Build Outputs & Generated Files
+# ==========================================
+bin/
+obj/
+log/
+logs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# ==========================================
+# VS Code Settings & Cache
+# ==========================================
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# ==========================================
+# Operating System
+# ==========================================
+.DS_Store
+Thumbs.db
+*.tmp
