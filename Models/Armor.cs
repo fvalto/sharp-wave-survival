@@ -10,7 +10,7 @@ namespace sharp_wave_survival.Models
         public ArmorSlot Slot { get; set; }
 
         //Constructor
-public Armor(string itemName, string description, int value, int armorLevel, int bonusDefense, ArmorSlot slot) : base(itemName, description, value)        {
+        public Armor(string itemName, string description, int value, int armorLevel, int bonusDefense, ArmorSlot slot) : base(itemName, description, value)        {
             ArmorLevel = armorLevel;
             BonusDefense = bonusDefense;
             Slot = slot;

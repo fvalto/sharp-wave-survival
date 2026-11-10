@@ -1,10 +1,8 @@
-# Overview
+# Sharp Wave Survival 🗡️🛡️ - Overview
 
-**Sharp Wave Survival** is a C# console-based game. Level up, upgrade your gear, and survive waves of enemies. How far will you get?
+**Sharp Wave Survival** is a turn-based console survival RPG built in C# using Object-Oriented Programming (OOP) principles. Players navigate a 10-wave progression system, managing gold, upgrading tier-based equipment, and managing combat strategy to defeat increasingly powerful waves of enemies.
 
-This project is the first of three in order to foster my learning on C# and create a basic game, as it is something that has always caught my attention and I want to do something I have never tried before.
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Iokpi7no0ko)
 
 # Development Environment
 
@@ -20,11 +18,16 @@ This project is the first of three in order to foster my learning on C# and crea
 - [W3Schools](https://www.w3schools.com/cs/index.php)
 - [Microsoft Official Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/program-structure/)
 - [C# Tutorial For Beginners - Learn C# Basics in 1 Hour](https://www.youtube.com/watch?v=gfkTfcpWqAY)
+- [C# Full Course for free 🎵](https://www.youtube.com/watch?v=wxznTygnRfQ)
+- [Gemini AI - used for overal information and help with file and folder overall structure](https://gemini.google.com/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Implement an experience and level-up system to increase stats like attack power, max health, etc.
+- A save system so that if the player wants to leave, they can save their run and come back later.
+- A wrapping loop that prompts the player to play again instead of closing the game.
+- More enemy variety.
+- Special attacks for both players and enemies (e.g., a zombie can bite and infect you; if you do not buy and use a remedy within the next 3 waves, you turn into a zombie and lose).
+- More potion variety (e.g., potions to increase attack power, speed potions to take two consecutive turns, etc.).
+- Quests between waves to earn additional coins.
+- Selling system so you can rescue some coins from previous gear as you upgrade.
